@@ -264,6 +264,10 @@ a:hover {
     content: "\e800"
 }
 
+.icon_download:before {
+    content: "\f0ed"
+}
+
 .icon_location:before {
     content: "\e806"
 }
