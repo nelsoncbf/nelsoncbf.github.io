@@ -295,7 +295,9 @@ a:hover {
 .progressjs-progress {
     z-index: 9999999
 }
-
+li.services__item p {
+    font-weight: normal !important;
+}
 .progressjs-theme-custom {
     background-color: #ecf0f1;
     -webkit-transition: all .2s ease-out;
