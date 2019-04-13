@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: nelsoncbf.github.io
+Token: 430a2affa4d7eb445190a3fa4694c87b10ce52f98465569eea82722afa6a0a69
