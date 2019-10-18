@@ -1,4 +1,5 @@
 # https://nlsfonseca.github.io
+# https://nelsonfonseca.netlify.com/
 Respositório do site de portifólio, apresentando meu curriculo virtual e maiores detalhes pessoais.
 
 - Visualização para mobile<br><br>
